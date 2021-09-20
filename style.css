@@ -1,0 +1,280 @@
+.logo img {
+	width: 250px;
+	margin-left: 10px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+
+.cabeçalho {
+	display: flex;
+	align-items: center;
+	margin-top: 30px;
+	margin-left: 70px;
+	margin-right: 85px;
+	background-color: gray;
+	margin-bottom: 10px;
+}
+
+body {
+	background-color: darkred;
+}
+
+.aaa {
+	display: flex;
+}
+
+.aaa {
+	margin-left: 80px;
+}
+
+
+
+.to h2 {
+	margin-right: 25px;
+	padding-left: 70px;
+	padding-right: 35px;
+	font-size: 35px;
+}
+
+.aaa p {
+	padding-right: 1px;
+}
+.aaa h1 {
+	margin-right: 53px;
+	padding-left: 73px;
+	padding-right: 85px;
+	background-color: gray;
+}
+
+.cabeçalho-texto a {
+	color: black;
+	text-decoration:none;
+ 	border-width: 2px;
+ 	padding: 7px;
+  	border-style: solid;
+ 	border-color: black;
+	font-size: 25px;
+	margin-left: 20px;
+	font-weight: 700;
+}
+
+.cabeçalho-texto-compre a {
+	color: black;
+	text-decoration:none;
+ 	border-width: 2px;
+ 	padding: 7px;
+  	border-style: solid;
+ 	border-color: black;
+	font-size: 25px;
+	margin-left: 20px;
+	font-weight: 700;
+}
+
+.cabeçalho-texto a:hover {
+	background-color: darkred;
+	transition: 1s;
+	color: darkorange;
+}
+
+.cabeçalho-texto-compre a:hover {
+	background-color: darkred;
+	transition: 1s;
+	color: darkorange;
+}
+
+.mortal {
+	align-items: center;
+	margin-left: 70px;
+}
+
+
+
+.footer {
+	margin-top: 15px;
+	margin-bottom: 10px;
+	padding: 6px;
+	background-color: gray;
+	border: 1px solid gray;
+	margin-right: 85px;
+	margin-left: 70px;
+	font-size: 25px;
+	text-align: center;
+	font-weight: 700;
+}
+.mortal img {
+	width: 1172px;
+	display: flex;
+	border-top: 10px solid gray;
+	border-left: 10px solid gray;
+	border-right: 12px solid gray;
+	border-bottom: 10px solid gray;
+}
+
+.texto h1 {
+	text-align: center;
+	width: 350px;
+	border: 10px solid gray;
+	font-weight: 700;
+	color: black;
+	font-size: 2em;
+	margin-top: 20px;
+}
+
+.texto h1:hover {
+	transition: 1s;
+	color: darkred;
+}
+
+.aaa h2:hover {
+	transition: 1s;
+	color: darkred;
+}
+
+.texto p {
+	font-size: 2em;
+	margin-right: 70px;
+	font-weight: 700;
+	text-align: center;
+	border-top: 0;
+	border-right: 2.6px solid gray;
+	border-left: 2.6px solid gray;
+	border-bottom: 8.5px solid gray;
+	background-color: gray;
+}
+
+.texto img {
+	background-color: gray;
+	border-right: 92px solid gray;
+	border-left: 80px solid gray;
+}	
+
+.texto {
+	margin-bottom: 10px;
+}
+
+.texto2 {
+	align-items: center;
+	background-color: gray;
+	margin-left: 70px;
+	margin-right: 85px;
+	font-size: 25px;
+	border-top: 10px solid gray;
+}
+
+.texto2 p {
+	text-align: center;	
+}
+
+.texto2 h1 {
+	text-align: center;
+	font-size: 40px;
+	font-weight: 700;
+	border-bottom: 10px solid gray;
+}
+
+.texto2 h1:hover {
+	color: darkred;
+	transition: 1s;
+}
+
+.texto2:nth-child(7) {
+	border-bottom: 15px solid gray;
+}
+
+
+.mortal2 img {
+	width: 500px;
+	display: flex;
+	border-left: 10px solid gray;
+	border-right: 12px solid gray;
+	border-bottom: 10px solid gray;
+}
+
+.mortal2 {
+	margin-left: 50px;
+	display: flex;
+	align-items: center;
+}
+
+.cabeçalho2 {
+	border-top: 10px solid gray;
+	display: flex;
+	align-items: center;
+	margin-left: 70px;
+	margin-right: 85px;
+	background-color: gray;
+}
+
+.cabeçalho2 p {
+	font-size: 2em;
+	padding: 10px;
+	border: 2px solid black;
+}
+
+.cabeçalho2 p:hover {
+	color: darkred;
+	transition: 1s;
+}
+
+.nice a {
+	float: left;
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+}
+
+.tudo {
+	display: inline-block;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.nice a:hover {
+	color: white;
+}
+
+.nice img {
+	margin-top: 15px;
+}
+
+
+.t1 {
+	margin-left: 80px;
+	margin-top: 10px;
+}
+
+.t2 {
+	margin-left: 90px;
+	margin-top: 10px;
+}
+
+.t3 {
+	margin-left: 65px;
+	margin-top: 10px;
+}
+
+.t4 {
+	margin-top: 10px;
+	margin-left: 40px;
+}
+
+.nice {
+	text-align: center;
+	padding: 10px;
+	border: 10px solid gray;
+	border-right: 10px solid gray ;
+	background-color: gray;
+	font-weight: 700;
+	color: black;
+	font-size: 2em;
+	margin-top: 20px;
+}
+
+.nice img {
+	margin-left: 0px;
+}
+
+.tudo {
+	display: inline-block;
+}

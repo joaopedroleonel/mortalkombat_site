@@ -1,0 +1,186 @@
+.logo img {
+	width: 250px;
+	margin-left: 10px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+
+.cabeçalho {
+	display: flex;
+	align-items: center;
+	margin-top: 30px;
+	margin-left: 70px;
+	margin-right: 85px;
+	background-color: gray;
+}
+
+body {
+	background-color: darkred;
+}
+
+.cabeçalho-texto a {
+	color: black;
+	text-decoration:none;
+ 	border-width: 2px;
+ 	padding: 7px;
+  	border-style: solid;
+ 	border-color: black;
+	font-size: 25px;
+	margin-left: 20px;
+	font-weight: 700;
+}
+
+.cabeçalho-texto-compre a {
+	color: black;
+	text-decoration:none;
+ 	border-width: 2px;
+ 	padding: 7px;
+  	border-style: solid;
+ 	border-color: black;
+	font-size: 25px;
+	margin-left: 20px;
+	font-weight: 700;
+}
+
+.ed img {
+	margin-left: 500px;
+}
+
+.ed {
+	background-color: gray;
+}
+
+.cabeçalho-texto a:hover {
+	background-color: darkred;
+	transition: 1s;
+	color: darkorange;
+}
+
+.cabeçalho-texto-compre a:hover {
+	background-color: darkred;
+	transition: 1s;
+	color: darkorange;
+}
+
+
+.Personagens img {
+	width: 150px;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: gray;
+}
+
+
+.Personagens {
+	float: left;
+  	width: 80%;
+  	margin-left: 70px;
+  	border: 10px solid gray;
+  	background-color: gray;
+  	padding-left:98px;
+}
+
+.ok {
+	margin-left: 70px;
+	background-color: gray;
+}
+
+.pri {
+	border-left: 56px solid gray;
+}
+
+.ulti {
+	border-right: 57px solid gray;
+}
+
+.ok img {
+	background-color: gray;
+}
+
+.Personagens1 img {
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: gray;
+	border: 1px solid gray;
+}
+
+
+.Personagens1 {
+	float: left;
+  	background-color: gray;
+}
+
+.raiden img {
+	display: block;
+}
+
+.voltar img {
+	width: 100px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 15px;
+}
+
+.descri p {
+	font-size: 2em;
+	text-align: center;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.descri {
+	background-color: gray;
+	border: 1px solid gray;
+}
+
+.descri1 {
+	background-color: gray;
+	border: 1px solid gray;
+}
+
+.descri h1 {
+	font-size: 50px;
+	margin-right: 75px;
+	padding: 10px;
+	font-weight: 700;
+	text-align: center;
+}
+
+.descri img {
+	width: 250px;
+	margin-left: 530px;
+	padding: 10px;
+}
+
+.descri1 img {
+	width: 850px;
+	margin-left: 200px;
+	padding: 10px;
+}
+
+.descri h1:hover {
+	color: darkred;
+	transition: 1s;
+}
+
+.footer {
+	margin-top: 195px;
+	margin-bottom: 10px;
+	padding: 6px;
+	background-color: gray;
+	border: 1px solid gray;
+	margin-right: 85px;
+	margin-left: 70px;
+	font-size: 25px;
+	text-align: center;
+	font-weight: 700;
+}
+
+.Personagens {
+	margin-top: 10px;
+}
+
+.cabeçalho2 {
+	border: 10px solid gray;
+}
